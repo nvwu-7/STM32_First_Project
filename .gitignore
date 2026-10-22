@@ -1,0 +1,9 @@
+# CLion build directories
+cmake-build-*/
+
+# CLion local settings
+.idea/
+
+# Temporary files
+*.log
+*.tmp
